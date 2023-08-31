@@ -48,73 +48,50 @@ abstract. You know your audience...
 
 ** Grading
 
-Final projects for classes such as this lend themselves to holistic
-grading with specifics dependant on the selected topic. For example,
-some topics will lend themselves to complex algorithmic code while
-others will lend themselves to simpler code that analyzes a larger set
-of data. Likewise some projects have obvious "sides" and others are
-more nuanced.
-
-Therefore, we believe that grading final projects holistically within
-the context of the selected topic will be much fairer and more
-accurate than strictly grading to a rubric.
-
-However we have been requested and as a result, we have decided on the
-following policy.
-
-Below is the rubric for the final project, 
-
-Each group can decide how they prefer to be graded - holistically or
-via the rubric below. Groups can specify their preference by filling
-out this form: https://forms.gle/McupbmigxrximBiS9.
-
-If you want to specify the method by which the final project will be
-graded, you must fill out the form by Friday November 4 at 7:00am. If
-you elect not to fill out the form by that date and time, the
-instructors will decide on which grading scheme to use.
+(Subject to change, prior to project delivery.)
 
 *Rubric:*
 1. Topic
-   - F - Does not clearly articulate topic
-   - C - Describes topic 
-   - B - Describes topic fully 
-   - A - Describes topic and nuances
+   - F - Does not clearly articulate topic.
+   - C - Describes topic.
+   - B - Describes topic fully.
+   - A - Describes topic and nuances.
 2. Exposition
-   - F - Does not fully describe topic
-   - C - Cursorily explains topic 
-   - B - Explains topic and demonstrates knowledge of topic
-   - A - Explains topic and nuances and demonstrates knowledge of both
+   - F - Does not fully describe topic.
+   - C - Cursorily explains topic.
+   - B - Explains topic and demonstrates knowledge of topic.
+   - A - Explains topic and nuances and demonstrates knowledge of both.
 3. Ethical Concerns
-   - F - Does not articulate ethical concerns
-   - C - articulates ethical concerns on one side of the issue
-   - B - articulates ethical concerns one one side and opposing influences on other sides
-   - A - articulates ethical concerns on multiple sides
+   - F - Does not articulate ethical concerns.
+   - C - articulates ethical concerns on one side of the issue.
+   - B - articulates ethical concerns one one side and opposing influences on other sides.
+   - A - articulates ethical concerns on multiple sides.
 4. Ethical justifications
-   - F - Does not justify any side of the issue
-   - C - Justifies one side of the issue
-   - B - Justifies one side and explains an opposing view
+   - F - Does not justify any side of the issue.
+   - C - Justifies one side of the issue.
+   - B - Justifies one side and explains an opposing view.
    - A - articulates arguments on multiple sides.
 5. Coding Design (coding component required to recieve a passing grade on project)
-   - F - No coding component
+   - F - No coding component.
    - C - Coding component is appropriately designed for selected topic.
-   - B - Coding component is well designed to explore the selected topic
+   - B - Coding component is well designed to explore the selected topic.
    - A - Coding component is well designed, explores the topic and either further illuminates or reinforces the ethical justifications.
 6. Coding Complexity
-   - F - code does not include fundamental data structures / algorithms
-   - C - Code attempts to implement fundamental data structures / algorithms
-   - B - Code exhibits fundamental algorithm or data structures and runs
-   - A - Code exhibits complex algorithms and data structures and runs
+   - F - code does not include fundamental data structures / algorithms.
+   - C - Code attempts to implement fundamental data structures / algorithms.
+   - B - Code exhibits fundamental algorithm or data structures and runs.
+   - A - Code exhibits complex algorithms and data structures and runs.
 7. Coding Implementation
-   - F - code does not run or does not implement stated design
-   - C - Code runs and exhibits stated design
-   - B - Code runs, exhibits stated design, demonstrates ethical issue
-   - A - Code runs, exhibits stated design, demonstrates ethical
-     issue, and is well structured/written 
+   - F - code does not run or does not implement stated design.
+   - C - Code runs and exhibits stated design.
+   - B - Code runs, exhibits stated design, demonstrates ethical issue.
+   - A - Code runs, exhibits stated design, demonstrates ethical.
+     issue, and is well structured/written.
  
 
-** DELIVERABLES:
+** Deliverables:
 
-    PDF of presentation (I.e., If you make a slide deck, export it to
+    PDF of presentation (i.e., If you make a slide deck, export it to
     a PDF version.)  optional: slide deck or other content in its
     original format (slide deck, document, etc) Any code you use or
     cite.  Location/format: <reporoot>/final_project/*
@@ -140,12 +117,12 @@ run it.
 
 ** Due Date:
 
-December 1, start of class (one week before the final class)
+November 30th, prior to the start of class (one week before the final class)
 
 ** Topic suggestions
 
-If you want to do a topic not on the list, feel free to DM the
-instructors.
+If you want to do a topic not on the list, feel free to contact the
+instructor.
 
 Remember to fill out the form linked at the top once you've decided on partner and topic.
 If you have any questions DM the instructor. If you submit the form and there's an issue with your choice of project, the instructors will contact you.
@@ -165,12 +142,12 @@ If you have any questions DM the instructor. If you submit the form and there's 
 - visually accesible web
 - cryptocurrency emissions
 - digital divide
-- Right to repai
+- Right to repair
 - planned obsolescence of smartphones
 - password managers
 - HS Matching algorithm (or other matching algos)
 - Fake news
-- randomware (sortof related are patent trolls) 
+- randomware (sort of related are patent trolls) 
 - Loan algorithms  
 - Anything based on, spinning, or extending a class topic or ethicacy topic
 
