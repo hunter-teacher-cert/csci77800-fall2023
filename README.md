@@ -1,7 +1,12 @@
-# csci77800-fall2022
-Main working repo for Ethics and CS -- Fall 2022
+# CSCI 77800 - Fall 2023
+Main working repo for Ethics and CS -- Fall 2023
 
 # CSCI 77800 - Ethics and Computer Science
+
+## Important Links
+- Course github (this): https://github.com/hunter-teacher-cert/csci77800-fall2023
+- Course syllabus: https://drive.google.com/drive/folders/1elbFeDUEVZiBKov5tXvoATQukguTyCHM?usp=sharing
+- Zoom link: (protected, see syllabus - above - for link)
 
 ## Discussion
 - standing zoom session: <https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09> 
