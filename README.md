@@ -4,23 +4,19 @@ Main working repo for Ethics and CS -- Fall 2023
 # CSCI 77800 - Ethics and Computer Science
 
 ## Important Links
-- Course github (this): https://github.com/hunter-teacher-cert/csci77800-fall2023
-- Course syllabus: https://drive.google.com/drive/folders/1elbFeDUEVZiBKov5tXvoATQukguTyCHM?usp=sharing
+- Course github (this): <https://github.com/hunter-teacher-cert/csci77800-fall2023>
+- Course syllabus: <https://drive.google.com/drive/folders/1elbFeDUEVZiBKov5tXvoATQukguTyCHM?usp=sharing>
 - Zoom link: (protected, see syllabus - above - for link)
-
-## Discussion
-- standing zoom session: <https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09> 
-- slack: <https://hunterteacher-vyz6159.slack.com/>
-  - real-time chat during live sessions (__Use instead of zoomchat!__)
-  - asynchronous communication between sessions
-  - prior cohort members may contribute to discussion.
+- Slack: <https://hunterteacher-vyz6159.slack.com/> 
+  - Real-time chat during live sessions (__Use instead of zoomchat!__).  You should join the channels listed below.
+  - Asynchronous communication between sessions
+  - Prior cohort members may contribute to discussion.
   - `#ethics` - real-time chat during live sessions and between sessions
   - `#ethics-async` - general async discussion area
   - `#ethics-we` - dedicated space for Weekly Ethicacy discussion (including its async component)
-  - `#ethics-Q-queue` - for lining up questions to be addressed during in-class time (instead of zoom-hand raising)
   - `#python-fu` - for troubleshooting, pro-tip sharing, shop-talking, resource sharing
   - `#general` - everybody, including prior cohorts
-- syllabus: <https://github.com/hunter-teacher-cert/csci77800-fall2022/blob/main/syllabus.md>
+
 
 ## Ethi:CS -- The Weekly Ethicacy
 At the beginning of each session, a designated duo will present on a topic of interest to them (and hopefully all of us!).
@@ -38,17 +34,16 @@ At the beginning of each session, a designated duo will present on a topic of in
     - (shorter: topic not rich enough)
     - (longer: topic not distilled enough)
   - solicit questions/comments/concerns
-* Weekly Ethicacy will take place in two breakout rooms, at the beginning of each week's live session.
+* Weekly Ethicacy will take place at the beginning of each week's live session.
 
 ### Asynchronous Component
 * Within a week of the live session during which a Weekly Ethicacy is delivered, each participant will post to the corresponding thread in the `ethics-we` channel a response:
   - clearly indicating chosen side
   - supporting their choice with supporting documentation, by referencing personal experience, and/or by expanding upon comments from live presentation or preceding channel discussion.
-
-### Presentation Order / Teams
-* Duo 1 will present to room 1, Duo 2 will present to room2.
-* CSV of randomized pairings: https://github.com/hunter-teacher-cert/csci77800-fall2022/blob/main/ethicacy_duos.csv
 * _Participants are expected to establish communications with their partner as soon as possible, and collaborate to maximize presentation quality._
+
+
+
 
 
 * * * 
