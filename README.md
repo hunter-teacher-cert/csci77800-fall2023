@@ -73,21 +73,46 @@ A list of potential topics is available in <https://github.com/hunter-teacher-ce
 
 #### Async + Homework
 * Due 9/7 9:00am.  Late work will not be accepted.
-* Because week #1 has no Ethicacy presentation, this week's async component and homework will focus on building your Python skills.  Utilize the `#python-fu` channel as necessary to discuss and seek support from your instructor and peers.
+
+*** Part 1 - to be developed in a folder in your repo: week_01
+Find an article dealing with a CS issue and:
+- Post a link to the async channel (use `#ethics-async`) with a link to the article and a short (1 or 2 sentences) summary/title. 
+- Write and post a short (no more than 1 page) summary (which should include a hyperlink to the article) to the week_00 folder of your repo named
+  article.pdf. You can also store additional files.
+- Your analysis should ideally be with respect to at least one of these groups:
+  - Your students
+  - Your community/family
+  - You
+  - The world at large.
+
+*** Part 2 - to be posted to the `#ethics-async` channel of Slack.
+Respond to at least 2 other classmates posts by adding to a thread under their part 1 post.
+
+Offer any/all of:
+- your take on the topic.
+- extra information.
+- links for further reading.
+- your personal experience with something similar.
+- something this inspired you to think about.
+- anything additional that you feel is productive and relevant.
+No need to read their PDF, you can just read the source material.
+
+*** Part 3 - Python
+* It is important to focus on building your Python skills.  Utilize the `#python-fu` channel as necessary to discuss and seek support from your instructor and peers.
 * You can find the Python resources here: <https://github.com/hunter-teacher-cert/csci77800-fall2023/blob/b9808f3e344f53f37dd70166f061dc679b016352/resources/readme.md>
 * Read ThinkPython Chapters 1-4.  Additional chapters may be read as you see fit for completing the work.
 * Chapters 9 and 10 will serve as references now and later this semester.
-* Review your Java codebase, specifically the below assignments, which you will re-write in Python:
-  - Game of Nim
-  - Game of Life
-  - Binary Search : iterative or recursive version
+* Review your Java codebase, specifically the below assignments, which you will eventually re-write in Python:
+  - Game of Nim **this is the only program rewrite due for this week**
+  - Game of Life. **subsequent weeks**
+  - Binary Search : iterative or recursive version. **subsequent weeks**
 
 * DELIVERABLE:
 ```
 your-ethics-work-repo/py/nim.py
-your-ethics-work-repo/py/gol.py
-your-ethics-work-repo/py/binsearch.py
 ```
+Only nim.py is due for this week.
+
   - for each sourcecode file you submit, include a heading comment block in this format:
   ```python
   # FILENAME
