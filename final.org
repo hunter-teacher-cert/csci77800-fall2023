@@ -3,7 +3,7 @@
 ** Proposal Form
 
 Once you've read the specification for the project (below) and decide on your topic, fill out this form
-so that the instructors can provide feedback and ultimately approve
+so that the instructor can provide feedback and ultimately approve
 your project.
 
 Once approved, your project will be listed in the "Selected Projects"
@@ -38,7 +38,7 @@ related to the topic.
 
  There is no set length for the paper but the presentation slides,
  which should summarize the project should be able to be presented in
- 15 minutes. As the final project is 25% of the grade, it should be of
+ 30 minutes. As the final project is 25% of the grade, it should be of
  an appropriate depth and complexity.
 
 GUIDING GOAL: Leave your classmates with something they can
