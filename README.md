@@ -5,17 +5,16 @@ Main working repo for Ethics and CS -- Fall 2023
 
 ## Important Links
 - Course github (this): <https://github.com/hunter-teacher-cert/csci77800-fall2023>
-- Course syllabus: (protected, your instructor will send this link - for link)
-- Zoom link: (protected, see syllabus - above - for link)
-- Slack: <https://hunterteacher-vyz6159.slack.com/> 
+- Course syllabus, Zoom link, Spreadsheet of presentation order: (link protected - your instructor will provide a School of Education Google Docs share)
+- Slack: <https://hunterteacher-vyz6159.slack.com/>
   - Real-time chat during live sessions (__Use instead of zoomchat!__).  You should join the channels listed below.
-  - Asynchronous communication between sessions
+  - Asynchronous communication between sessions.
   - Prior cohort members may contribute to discussion.
-  - `#ethics` - real-time chat during live sessions and between sessions
-  - `#ethics-async` - general async discussion area
-  - `#ethics-we` - dedicated space for Weekly Ethicacy discussion (including its async component)
-  - `#python-fu` - for troubleshooting, pro-tip sharing, shop-talking, resource sharing
-  - `#general` - everybody, including prior cohorts
+  - `#ethics` - real-time chat during live sessions and between sessions.
+  - `#ethics-async` - general async discussion area.
+  - `#ethics-we` - dedicated space for Weekly Ethicacy discussion (including its async component).
+  - `#python-fu` - for troubleshooting, pro-tip sharing, shop-talking, resource sharing.
+  - `#general` - everybody, including prior cohorts.
 
 
 ## Ethi:CS -- The Weekly Ethicacy
