@@ -59,8 +59,6 @@ A list of potential topics is available in <https://github.com/hunter-teacher-ce
   - Review Ethicacy presentation idea; review schedule of Ethicacy presentations.  
   - How async will work (vs assignments and homework)
   - Github Assignment Repo setup
-
-* Begin studying basic Python.
   
 * **Ground rules for discussions:** _We will grow/learn the most if we..._
   - respect one another's positions.
@@ -68,6 +66,8 @@ A list of potential topics is available in <https://github.com/hunter-teacher-ce
   - listen for understanding.
   - step into others' shoes.
   - sometimes play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
+
+* Begin studying basic Python.
 
 
 
