@@ -5,7 +5,7 @@ Main working repo for Ethics and CS -- Fall 2023
 
 ## Important Links
 - Course github (this): <https://github.com/hunter-teacher-cert/csci77800-fall2023>
-- Course syllabus: <https://drive.google.com/drive/folders/1elbFeDUEVZiBKov5tXvoATQukguTyCHM?usp=sharing>
+- Course syllabus: (protected, your instructor will send this link - for link)
 - Zoom link: (protected, see syllabus - above - for link)
 - Slack: <https://hunterteacher-vyz6159.slack.com/> 
   - Real-time chat during live sessions (__Use instead of zoomchat!__).  You should join the channels listed below.
@@ -20,6 +20,9 @@ Main working repo for Ethics and CS -- Fall 2023
 
 ## Ethi:CS -- The Weekly Ethicacy
 At the beginning of each session, a designated duo will present on a topic of interest to them (and hopefully all of us!).
+
+### Topics:
+A list of potential topics is available in <topics.md>
 
 ### Deliverables:
 - PDF in each partner's **ethicacy** folder in your work repo, subject to these guidelines:
