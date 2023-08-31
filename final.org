@@ -9,47 +9,13 @@ your project.
 Once approved, your project will be listed in the "Selected Projects"
 section below.
 
-Link: https://forms.gle/zLWarH36bj9FSwT76
+Link: [link to be published]
 
 
 ** Selected Projects
 | Team member 1 | Team member 2 | Project                |
 |---------------------+------------------+------------------------|
-| Thea                | Kiana            | Social Media Addiction |
-| Driggs              | Elizabeth        | Gamification of Life   |
-| Marisa              | Marieke          | Facial Recognition     |
-| Alise | Ben | Cryptocurrency Emissions | 
-| David | Joel | HS Matching Algorithm |
-| Wayne | Ed | Gerrymandering |
-| Patti | Vanessaa | Facebook/Gaming/Phone Addiction |
-| Kiana | Thea | Social Media Addiction |
-| Jenna | Jihai and Mike R. | Planned Obsolescence |
-| Parmanand | Erwin | Deep Fake Technology |
-| Kirk | Usman | Gaming Addiction | 
-| SueAnn | Stacy | AI To Diagnose Disease | 
-| Sam | Will | Gerrymandering | 
-| Harrison | Jessica | Gerrymandering |
-|TGK | Amanda | Fake News |
-| Max | Christine | Bias in Facial Recognition |
-| Kate | Shana | HS Matching | 
-| Aasine | Josh | Right to Repair |
-| Alicia | Latoya | Bias in data sets |
-| Alana | Setephen | Digital Redlining |
-| Yanique | Adam | Digital Divide|
-
-The following groups need to update us - we need you to DM us either
-your project title and description, the coding component, or both.
-
-| Team member 1 | Team member 2 | Project                |
-|---------------------+------------------+------------------------|
-| Jerusha | Tanya ||
-| Jing | Rich, Mike Park||
-| Nicole | Chris ||
-| Sarah|  Saranii | | 
-| Seth | Dave | |
-| Yeidy Levels| Rachel Kaufman| Phone addiction
-  
-
+|
 
 ** Specification
 
