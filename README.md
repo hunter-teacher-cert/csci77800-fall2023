@@ -18,7 +18,7 @@ Main working repo for Ethics and CS -- Fall 2023
 
 
 ## Ethi:CS -- The Weekly Ethicacy
-At the beginning of each session, a designated duo will present on a topic of interest to them (and hopefully all of us!).
+Each synchronous sessions starts with the "weekly ethicacy."  These presentations are on a topic related to ethics and tech chosen by the presenting duo.  On their day, the team will make a short 10 minute presentation.
 
 ### Topics:
 A list of potential topics is available in <https://github.com/hunter-teacher-cert/csci77800-fall2023/blob/3ae3c6e0d00179ff31f8b2528d336c6edcc7d27f/ethicacy_topics.csv>
@@ -32,10 +32,10 @@ A list of potential topics is available in <https://github.com/hunter-teacher-ce
 
 ### Presentation
 * _GOAL: Each partner takes a side (of an at-least-2-sided issue), and audience gets to hear each argument._
-  - ~3-5min per side.
+  - ~5 minutes per side.
     - (shorter: topic not rich enough)
     - (longer: topic not distilled enough)
-  - solicit questions/comments/concerns
+  - solicit questions/comments/concerns (this time is beyond the 10 minutes).
 * Weekly Ethicacy will take place at the beginning of each week's live session.
 
 ### Asynchronous Component
@@ -44,10 +44,6 @@ A list of potential topics is available in <https://github.com/hunter-teacher-ce
   - supporting their choice with supporting documentation, by referencing personal experience, and/or by expanding upon comments from live presentation or preceding channel discussion.
 * _Participants are expected to establish communications with their partner as soon as possible, and collaborate to maximize presentation quality._
 
-
-
-
-
 * * * 
 
 ## Weekly Progression
@@ -55,6 +51,8 @@ A list of potential topics is available in <https://github.com/hunter-teacher-ce
 ### Week 1
 #### Sync
 * What comprises Ethical CS?
+  - Pairwise breakout (10 minutes): Sum up Ethical Computer Science in a few sentences.  Examine some of the web references in <https://github.com/hunter-teacher-cert/csci77800-fall2023/blob/b9808f3e344f53f37dd70166f061dc679b016352/resources/links.md>
+  - Pairwise breakout (10 minutes): What are some of the major contemporary topics in EthiCS?
 * Course overview
   - syllabus
   - grading
@@ -68,11 +66,13 @@ A list of potential topics is available in <https://github.com/hunter-teacher-ce
   - step into others' shoes.
   - sometimes play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
 
-#### Async
-* Due 9/7 9:00am 
-* Review pre-reading (ThinkPython Ch.1-4) and additional chapters as necessary, utilize `#python-fu` channel as necessary to discuss.
-* Bookmark Ch.9-10 for reference now and later in the term.
-* Consult your summer java codebase as necessary, and re-write in python 
+#### Async + Homework
+* Due 9/7 9:00am.  Late work will not be accepted.
+* Because week #1 has no Ethicacy presentation, this week's async component and homework will focus on building your Python skills.  Utilize the `#python-fu` channel as necessary to discuss and seek support from your instructor and peers.
+* You can find the Python resources here: <https://github.com/hunter-teacher-cert/csci77800-fall2023/blob/b9808f3e344f53f37dd70166f061dc679b016352/resources/readme.md>
+* Read ThinkPython Chapters 1-4.  Additional chapters may be read as you see fit for completing the work.
+* Chapters 9 and 10 will serve as references now and later this semester.
+* Review your Java codebase, specifically the below assignments, which you will re-write in Python:
   - Game of Nim
   - Game of Life
   - Binary Search : iterative or recursive version
@@ -92,3 +92,4 @@ your-ethics-work-repo/py/binsearch.py
   # consulted: 
   ```
 
+Please make frequent use of our Slack channel for support.
