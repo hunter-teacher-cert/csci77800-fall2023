@@ -50,21 +50,26 @@ A list of potential topics is available in <https://github.com/hunter-teacher-ce
 
 ### Week 1
 #### Sync
-* 1. *Discussion:* What comprises Ethical CS?
+* *Discussion:* What comprises Ethical CS?
   - Pairwise breakout (10 minutes): Sum up Ethical Computer Science in a few sentences.  Examine some of the web references in <https://github.com/hunter-teacher-cert/csci77800-fall2023/blob/b9808f3e344f53f37dd70166f061dc679b016352/resources/links.md>
   - Pairwise breakout (10 minutes): What are some of the major contemporary topics in EthiCS?
-* 2. Review the structure of this course.
-  - syllabus
-  - grading
-  - Github Assignment Repo setup
-  - Weekly Ethicacy
+* *Structural review:* How is this course set up?
+  - Syllabus, Zoom, schedule, all available in School of Education Google Document share.
+  - Review syllabus.
+  - Review Ethicacy presentation idea; review schedule of Ethicacy presentations.  
   - How async will work (vs assignments and homework)
+  - Github Assignment Repo setup
+
+* Begin studying basic Python.
+  
 * **Ground rules for discussions:** _We will grow/learn the most if we..._
   - respect one another's positions.
   - separate person (and their worth) from their opinions/stance.
   - listen for understanding.
   - step into others' shoes.
   - sometimes play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
+
+
 
 #### Async + Homework
 * Due 9/7 9:00am.  Late work will not be accepted.
