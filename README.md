@@ -69,13 +69,14 @@ A list of potential topics is available in <https://github.com/hunter-teacher-ce
   - sometimes play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
 
 #### Async
-* Due 9/14 9:00pm 
+* Due 9/7 9:00am 
 * Review pre-reading (ThinkPython Ch.1-4) and additional chapters as necessary, utilize `#python-fu` channel as necessary to discuss.
 * Bookmark Ch.9-10 for reference now and later in the term.
 * Consult your summer java codebase as necessary, and re-write in python 
   - Game of Nim
   - Game of Life
   - Binary Search : iterative or recursive version
+
 * DELIVERABLE:
 ```
 your-ethics-work-repo/py/nim.py
@@ -86,7 +87,7 @@ your-ethics-work-repo/py/binsearch.py
   ```python
   # FILENAME
   # First Last
-  # CSCI 77800 Fall 2022
+  # CSCI 77800 Fall 2023
   # collaborators: 
   # consulted: 
   ```
