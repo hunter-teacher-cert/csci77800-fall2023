@@ -1,7 +1,7 @@
 # Python
-- Think Python (Downey):
+- Think Python: How to Think Like a Computer Scientist (2nd Edition, Downey)
   - Interactive version: https://runestone.academy/runestone/books/published/thinkcspy/index.html
-  - Text (PDF, HTML...): https://greenteapress.com/wp/think-python-2e/
+  - eText (PDF/HTML): https://greenteapress.com/wp/think-python-2e/
 - Pythonery: 
   - Thonny, the "Goldilocks IDE": https://thonny.org/
     - Richer than IDLE
