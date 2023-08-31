@@ -21,7 +21,7 @@ Main working repo for Ethics and CS -- Fall 2023
 At the beginning of each session, a designated duo will present on a topic of interest to them (and hopefully all of us!).
 
 ### Topics:
-A list of potential topics is available in <topics.md>
+A list of potential topics is available in <https://github.com/hunter-teacher-cert/csci77800-fall2023/blob/3ae3c6e0d00179ff31f8b2528d336c6edcc7d27f/ethicacy_topics.csv>
 
 ### Deliverables:
 - PDF in each partner's **ethicacy** folder in your work repo, subject to these guidelines:
