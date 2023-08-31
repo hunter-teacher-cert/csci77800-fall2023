@@ -50,10 +50,10 @@ A list of potential topics is available in <https://github.com/hunter-teacher-ce
 
 ### Week 1
 #### Sync
-* What comprises Ethical CS?
+1. *Discussion:* What comprises Ethical CS?
   - Pairwise breakout (10 minutes): Sum up Ethical Computer Science in a few sentences.  Examine some of the web references in <https://github.com/hunter-teacher-cert/csci77800-fall2023/blob/b9808f3e344f53f37dd70166f061dc679b016352/resources/links.md>
   - Pairwise breakout (10 minutes): What are some of the major contemporary topics in EthiCS?
-* Course overview
+1. Review the structure of this course.
   - syllabus
   - grading
   - Github Assignment Repo setup
